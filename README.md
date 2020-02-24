@@ -1,6 +1,7 @@
 # wxSVG-luckyBottle
  “快乐源泉小瓶子”的微信图文交互  
-提供发布在吉珠公众号的源码，在研究尝试中的demo，以及优化后的模板源码。  
+提供发布在吉珠公众号的源码，在研究尝试中的demo，以及优化后的模板源码。   
+代码分析：[图文交互｜“小瓶子”图文交互技术总结](https://mp.weixin.qq.com/s/U2lkKimN_JrZhI0RF5e2fg)
 &nbsp;
 ******
 &nbsp;
